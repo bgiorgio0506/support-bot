@@ -1,0 +1,26 @@
+{
+  "token": "NTQ2MTg2OTUyNTMwMTk4NTMw.D0lUdA.inla3XchGI9Picotn3grTIFh8vs",
+  "prefix" : "!",
+  "message": "Welcome to POSCON Italy Division Discord!In this server the rules applied are the one that you accepted on terms of service of POSCON Network. If you have any problem please use the command !help to get more informetion ! If you need to talk with us please use the command !assistenza",
+  "botwelcome":"**POSCON Italy Division Welcome Bot!**",
+  "assistenza":[
+    {
+    "id":"324200993896136704"},
+    {
+      "id":"259973846122102784"}
+  ],
+
+  "database" : [
+    {
+      "host":"localhost",
+      "user":"root",
+      "password": "",
+      "dbname" :"discordbot"
+    }
+  ],
+
+  "lang": "it.json",
+  "staffcolor":"7931153",
+  "usercolor":"14852147",
+  "infocolor":"2711707"
+}

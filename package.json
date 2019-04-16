@@ -1,0 +1,21 @@
+{
+  "name": "POSCON Italy Division BOT",
+  "version": "0.8.0",
+  "description": "This BOT is a utility to help the user and the administration Staff of POSCON Italy Division",
+  "author": "Giorgio Bella",
+  "serverinfo": "POSCON Italy Division is one of the  starting division on the created Network POSCON by PositiveControl LLC ",
+  "dependencies": {
+    "anti-spam": "^0.2.7",
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.4.2",
+    "mysql": "^2.16.0",
+    "winston": "^3.2.1"
+  },
+  "license": "MIT",
+  "main": "bot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
